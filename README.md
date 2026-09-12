@@ -1,5 +1,12 @@
 # HA House Status Card
 
+## Neutral mobile preview
+
+![Neutral mobile preview of ha-house-status-card](docs/preview.png)
+
+> Rendered at 390 px mobile width with fictional Home Assistant entities and values. No private dashboard, person, address, camera, or sensor data is included.
+
+
 A compact, glass-styled Home Assistant Lovelace card giving a single at-a-glance overview of the house: locks, doors/windows, alarm, garage door, who's home, running appliances, and robots.
 
 ## Install
